@@ -11,6 +11,9 @@ A DNS resolver built from the RFC 1035 wire format up. It walks from the root se
 ## 3. Demo
 Live: `python -m minidns.cli example.com A` (needs outbound UDP/53). Capture to record.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3.
 
