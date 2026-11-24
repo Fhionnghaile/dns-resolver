@@ -2,7 +2,7 @@
 
 <!-- at-a-glance -->
 > **A recursive DNS resolver built from scratch — wire format up, no library shortcuts.**  
-> **Result:** 14 tests; parses and builds real DNS packets and resolves recursively.  
+> **Result:** 17 tests; parses and builds real DNS packets and resolves recursively.  
 > **Reproduce:** `pytest -q`  
 > ![CI](https://github.com/fhionnghaile/dns-resolver/actions/workflows/ci.yml/badge.svg)
 >

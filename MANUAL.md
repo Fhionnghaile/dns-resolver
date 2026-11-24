@@ -24,7 +24,7 @@ python -m minidns.cli example.com A
 ```
 
 ## 5. What you will see
-14 tests pass, with no network needed. The CLI prints a dig-like answer.
+17 tests pass, with no network needed. The CLI prints a dig-like answer.
 
 ## 6. 30-second talking point
 > Using a stack and being able to fix it are different skills. I wrote the DNS wire format by hand, kept I/O separate so every path is tested offline, and fuzzed the parser, because the parser is the attack surface.
