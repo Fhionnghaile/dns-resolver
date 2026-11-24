@@ -4,7 +4,7 @@
 > **A recursive DNS resolver built from scratch — wire format up, no library shortcuts.**  
 > **Result:** 17 tests; parses and builds real DNS packets and resolves recursively.  
 > **Reproduce:** `pytest -q`  
-> ![CI](https://github.com/fhionnghaile/dns-resolver/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/dns-resolver/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/dns-resolver/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/dns-resolver)
 >
 > **What this is worth:** Demonstrates systems depth — understanding a protocol at the byte level is what separates using a stack from being able to fix it.
 
